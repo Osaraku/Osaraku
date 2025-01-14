@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhamad Tio Ariyanto</h1>
+<h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>, I'm Muhamad Tio Ariyanto</h1>
 
 ###
 
@@ -54,3 +54,8 @@
 </div>
 
 ###
+
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
