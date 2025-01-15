@@ -23,11 +23,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left"><img src="https://emojis.slackmojis.com/emojis/images/1660853767/60881/meow_attention.gif?1660853767" width="25"/>  About Me</h3>
 
 ###
 
-<p align="left">⚡ Undergraduate Computer Science from Indonesia Education University<br>🔭 I’m currently 3D Artist Intern at Lentera Nusantara Studio<br>🌱 I’m currently learning Unreal Engine & Unity3D</p>
+<p align="left">⚡ Computer Science Undergraduate at Indonesia Education University<br>🔭 3D Artist Intern at Lentera Nusantara Studio<br>🌱 I’m currently learning Unreal Engine & Unity3D</p>
 
 ###
 
@@ -38,7 +38,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left"><img src="https://emojis.slackmojis.com/emojis/images/1643515207/12254/stockrocket.gif?1643515207" width="25"/>   My Stats :</h3>
 
 ###
 
